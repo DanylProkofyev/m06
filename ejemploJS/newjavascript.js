@@ -13,4 +13,3 @@ while (isNaN(numero))
 resultat = numero + vidasRestantes;
 alert("vides restantes: " + resultat);
 console.log("el numero introducido es " + numero);
-//ayy lmao
