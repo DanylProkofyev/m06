@@ -25,5 +25,5 @@ function obtenValorTexto() {
     // texto = input.value;
     // var div=document.getElementById("valor_texto");
     // div.innerHTML=texto;
-    document.getElementById("valor_texto").innerHTML = document.getElementById("texto").value;
+    document.getElementById("valor_texto").innerHTML += document.getElementById("texto").value;
 }
