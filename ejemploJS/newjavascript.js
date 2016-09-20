@@ -13,4 +13,12 @@ while (isNaN(numero))
 resultat = numero + vidasRestantes;
 alert("vides restantes: " + resultat);
 console.log("el numero introducido es " + numero);
-
+function obtenValorTexto() {
+    var texto = document.getElementById("texto").value;
+    document.getElementById("valor_texto").innerHTML = texto;
+    //
+    // var input = document.getElementById("texto")
+    // texto = input.value;
+    // var div=document.getElementById("valor_texto");
+    // div.innerHTML=texto;
+}
