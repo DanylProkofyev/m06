@@ -1,6 +1,4 @@
-/**
- * Created by usu26 on 20/09/2016.
- */
+
 /*primera prueba*/
 // var vidasRestantes = 3;
 // var numero;
